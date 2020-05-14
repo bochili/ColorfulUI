@@ -1,0 +1,15 @@
+@font-face {
+	font-family:googlesans;
+	src: url(../fonts/product-sans.TTF);
+}
+*{
+	font-family: googlesans,微软雅黑;
+}
+.margin {
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.inputest {
+	margin-left: 10px;
+}
+
